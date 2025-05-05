@@ -1,0 +1,24 @@
+[
+    {
+      "author": [
+        {
+      "family": "Shannon",
+      "given": "Claude E"
+        }
+      ],
+      "container-title": "The Bell system technical journal",
+      "id": "Shannon1948",
+      "issue": "3",
+      "issued": {
+        "date-parts": [
+      [
+        1948
+      ]
+        ]
+      },
+      "page": "379-423",
+      "title": "A mathematical theory of communication",
+      "type": "article-journal",
+      "volume": "27"
+    }
+  ]
